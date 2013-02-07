@@ -1,0 +1,36 @@
+/**
+ * Styles specific to presentation.
+ */
+
+
+.highlight { background: #636363; }
+.grey { color: #969696; }
+.pink { color: #e377c2; }
+.white { color: #fff; }
+.black { color: #333; }
+
+
+.small { font-size: 25px; }
+.medium { font-size: 96px; }
+.big { font-size: 128px; }
+
+
+.shadow { 
+  text-shadow: 0px 4px 8px rgba(0,0,0, .5);
+}
+
+
+.center { text-align: center; }
+.left { text-align: left; }
+.right { text-align: right; }
+
+
+.pos-bottom { position: absolute; bottom: 0; }
+.pos-bottom-right { position: absolute; bottom: 0; right: 0; }
+.pos-bottom-full { position: absolute; bottom: 0; left: 0; right: 0; }
+
+.height-5 { height: 5em; }
+.height-6 { height: 6em; }
+.height-7 { height: 7em; }
+.height-8 { height: 8em; }
+.height-9 { height: 9em; }
