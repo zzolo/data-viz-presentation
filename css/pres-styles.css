@@ -15,10 +15,7 @@
 .big { font-size: 128px; }
 
 
-.shadow { 
-  text-shadow: 0px 4px 8px rgba(0,0,0, .5);
-}
-
+.shadow { text-shadow: 0px 4px 8px rgba(0,0,0, .5); }
 
 .center { text-align: center; }
 .left { text-align: left; }
@@ -34,3 +31,15 @@
 .height-7 { height: 7em; }
 .height-8 { height: 8em; }
 .height-9 { height: 9em; }
+
+.bg-top-center { background-position: top center; }
+.bg-center-top { background-position: center top; }
+.bg-center { background-position: center center; }
+.bg-no-repeat { background-repeat: no-repeat; }
+
+blockquote {
+  font-style: italic;
+}
+blockquote footer {
+  font-style: normal;
+}
