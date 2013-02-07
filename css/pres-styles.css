@@ -15,6 +15,9 @@
 .big { font-size: 128px; }
 
 
+.bold { font-weight: bold; }
+
+
 .shadow { text-shadow: 0px 4px 8px rgba(0,0,0, .5); }
 
 .center { text-align: center; }
